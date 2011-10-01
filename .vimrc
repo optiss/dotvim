@@ -47,7 +47,7 @@ set noswapfile
 filetype plugin indent on
 
 if &t_Co >= 256 || has("gui_running")
-   colorscheme mustang
+   colorscheme wombat
 endif
 
 if &t_Co > 2 || has("gui_running")
